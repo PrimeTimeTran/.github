@@ -2,9 +2,8 @@
 name: Issue template
 about: Any issue which is not a bug or feature request.
 title: Help developers 👨🏻‍💻 work more efficiently by...
-labels: documentation, enhancement
+labels: enhancement
 assignees: primetimetran
-
 ---
 
 ## Description
